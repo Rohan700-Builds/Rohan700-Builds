@@ -90,7 +90,7 @@ This repo is where I'm sharing coursework, projects, and case studies as I build
 I'm currently an M.S. Business Analytics & Applied AI student at UB's School of Management, coming off a B.S. in Business Administration (MIS & Data Analytics), also from UB.<br>
 My background blends hands-on analytics work — automated SQL-powered Power BI dashboards, a SharePoint reporting portal serving 1,400+ users, and enterprise data governance — with a growing technical toolkit in SQL, Python, and cloud/data engineering fundamentals.
 
-**Currently working on:** Database Management Systems and Statistical Analysis coursework (see [Projects](#-projects) below), with Cloud Data Warehousing & Data Engineering, Programming for Data Analytics, and Predictive Analytics coming up next.
+**Currently working on:** Database Management Systems and Statistical Analysis coursework + Real Estate Automation work for my dad (see [Projects](#-projects) below) with Cloud Data Warehousing & Data Engineering, Programming for Data Analytics, and Predictive Analytics classes coming up this fall.
 
 ## 💼 Experience
 
