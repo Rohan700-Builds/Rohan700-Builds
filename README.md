@@ -11,7 +11,7 @@ I'm currently an M.S. Business Analytics & Applied AI student at UB's School of 
 Classes I am taking this fall; Cloud Data Warehousing & Data Engineering, Programming for Data Analytics, Data Visualization for Business, and Mathematical and Computational Fundamentals for AI and Society
 
 💼 Experience
-Role	Company	Dates
+
 Credit Reporting & Transformation Analyst (Management Development Program)	M&T Bank	Jan 2025 – Apr 2026
 Credit Development Analyst	Ingram Micro	Aug 2024 – Dec 2024
 Retail Banking Intern	KeyBank	May 2023 – Aug 2023
