@@ -3,7 +3,7 @@
 M.S. in Business Analytics & Applied AI candidate at the University at Buffalo, aiming for a **Business Analyst / Data Engineering** role.<br>
 This repo is where I'm sharing coursework, projects, and case studies as I build toward that goal — updated as I go through the program.
 
-📍 Buffalo, NY &nbsp;|&nbsp; ✉️ mbillah2002@gmail.com &nbsp;|&nbsp; 🔗 linkedin.com/in/moebillah
+📍 Buffalo, NY &nbsp;|&nbsp; ✉️ mbillah2002@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/moebillah)
 
 ---
 
