@@ -8,8 +8,6 @@ M.S. in Business Analytics & Applied AI candidate at the University at Buffalo, 
 
 I'm currently an M.S. Business Analytics & Applied AI student at UB's School of Management, coming off a B.S. in Business Administration (MIS & Data Analytics), also from UB. My background blends hands-on analytics work — automated SQL-powered Power BI dashboards, a SharePoint reporting portal serving 1,400+ users, and enterprise data governance — with a growing technical toolkit in SQL, Python, and learning cloud/data engineering fundamentals.
 
-Classes I am taking this fall; Cloud Data Warehousing & Data Engineering, Programming for Data Analytics, Data Visualization for Business, and Mathematical and Computational Fundamentals for AI and Society
-
 💼 Experience
 
 Credit Reporting & Transformation Analyst (Management Development Program)	M&T Bank	Jan 2025 – Apr 2026
@@ -20,10 +18,10 @@ Highlights: built automated SQL-powered Power BI dashboards to eliminate manual 
 
 🛠️ Skills
 Languages/Tools: SQL, Python, Power BI, Microsoft 365, Excel
-Concepts: Data governance, ER modeling & database design, hypothesis testing, statistical analysis, dashboarding, Agile delivery
+Concepts: Data governance, ER modeling & database design, statistical analysis, dashboarding, Agile delivery
 Currently building: Cloud data warehousing, data pipelines, predictive modeling
-🎓 Education
 
+🎓 Education
 University at Buffalo, School of Management — M.S. Business Analytics & Applied AI (Expected May 2027) University at Buffalo — B.S. Business Administration, MIS & Data Analytics (June 2024)
 
 Coursework
@@ -33,15 +31,18 @@ Coursework
 Database Management Systems (MGS 613)
 Statistical Foundations of Analytics (MGQ 606)
 
+📖 Current Classes
+
+Cloud Data Warehousing and Data Engineering (MGS 657)
+Programming for Data Analytics (MGS 617)
+Data Visualization for Business Insights (MGS 628)
+Mathematical and Computational Fundamentals for AI and Society (AI 502)
+
 📚 Upcoming
 
 Foundations of AI and Society (AI 501)
-Mathematical and Computational Fundamentals for AI and Society (AI 502)
 Predictive Analytics (MGS 616)
 Applied AI for Managers (MGS 636)
-Data Visualization for Business Insights (MGS 628)
-Programming for Data Analytics (MGS 617)
-Cloud Data Warehousing and Data Engineering (MGS 657)
 AI Capstone (MGG 670)
 
 📂 Projects
