@@ -104,11 +104,6 @@ Used one-sample t-tests to check two management claims against data from 200 sto
 
 *More projects will be added here as I move through the rest of the masters curriculum.*
 
-## 📈 What's Next
-
-I'll be adding new projects and notes as I complete each course — next up is Cloud Data Warehousing and Data Engineering and Programming for Data Analytics.<br>
-Feel free to follow along or reach out if you'd like to connect!
-
 <!--
 **Rohan700-Builds/Rohan700-Builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
