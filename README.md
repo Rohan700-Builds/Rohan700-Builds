@@ -34,7 +34,7 @@ My background blends hands-on analytics work. Automated SQL-powered Power BI das
 
 - **Languages/Tools:** SQL, Python, Power BI, Microsoft 365, Excel
 
-- **Concepts:** Data governance, ER modeling & database design, hypothesis testing, dashboarding, Agile delivery
+- **Concepts:** Data governance, ER modeling & database design, statistical analysis, dashboarding, Agile delivery
 
 - **Currently building:** Cloud data warehousing, data pipelines, predictive modeling
 
