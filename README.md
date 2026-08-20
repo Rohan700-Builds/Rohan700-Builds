@@ -74,6 +74,21 @@ My background blends hands-on analytics work. Automated SQL-powered Power BI das
 
 ## 📂 Projects
 
+### 🚢 [Port Vessel Schedule Analysis](https://github.com/Rohan700-Builds/Port-Vessel-Schedule-Analysis) — *Independent Project*
+Pulled live public vessel schedule data from two U.S. port authorities, diagnosed real data quality issues, and merged them into one comparable dataset.
+
+- Built a reproducible cleaning pipeline in pandas, fixing a CSV parsing bug caused by unquoted commas in two source fields (traced to two distinct root causes, not a single fix)
+  
+- Standardized two structurally different port schemas into one common format, and identified a genuine data limitation — one port's live snapshot format doesn't preserve both estimated and actual arrival times, so schedule delay could only be computed for one of the two ports
+  
+- Normalized inconsistent carrier naming across sources (e.g. "MAERSK" / "MAERSK INC" / "MAERSK LINE" → one canonical name), reducing 35 raw carrier strings to 22 real companies and correcting a top-carrier ranking that would otherwise have understated volume
+
+- Investigated each port's website via Chrome DevTools to find built-in CSV exports rather than scraping rendered HTML
+  
+- **Solo project**
+
+- **Tools:** Python, Pandas, Matplotlib, Git/GitHub
+
 ### 🎬 [IMDb Movie Database Design & Analysis](./projects/imdb-movie-database) — *MGS 613, Database Management Systems*
 
 Designed and normalized a relational database (3NF) from the Kaggle "IMDb Top 1000" dataset, then wrote SQL to answer business questions a streaming service might ask.
