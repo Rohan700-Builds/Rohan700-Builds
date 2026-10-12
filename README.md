@@ -11,7 +11,7 @@ I'm looking for **Business Analyst and Data Engineering** roles: turning messy d
 Merged live schedule exports from two U.S. port authorities with different schemas into one dataset. Fixed a CSV parsing bug with two root causes and normalized 35 carrier-name variants into 22 real companies, which corrected the top-carrier ranking.
 
 **🎬 [IMDb Movie Database](https://github.com/Rohan700-Builds/IMDb-Movie-Database)** &nbsp;·&nbsp; Oracle SQL, data modeling<br>
-Normalized a flat 1,000-movie CSV into a 7-table schema (3NF) and wrote SQL to answer the licensing questions a streaming service would ask. Also documents a source-data bug and the fixes I'd make in a second version.
+Normalized a flat 1,000-movie CSV into a 7-table schema (3NF) with constraint checks and a validation step that caught co-directors loaded as actors, then wrote SQL to answer the licensing questions a streaming service would ask.
 
 ## 💼 From my work (not on GitHub)
 
